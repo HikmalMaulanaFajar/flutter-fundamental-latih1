@@ -1,5 +1,5 @@
 # Laporan Praktikum Flutter
-## Nama : Hikmal aulana Fajar
+## Nama : Hikmal Maulana Fajar
 ## NIM 230444040008
 ## Kelas : 04421
 
