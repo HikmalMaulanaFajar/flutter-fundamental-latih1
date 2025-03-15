@@ -1,4 +1,7 @@
 # Laporan Praktikum Flutter
+## Nama : Hikmal aulana Fajar
+## NIM 230444040008
+## Kelas : 04421
 
 ## Praktikum 1: Membuat Project Flutter Baru
 ![Tampilan Hello World](img/01.png)
