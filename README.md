@@ -8,8 +8,8 @@
 
 ## Praktikum 3: Menggunakan GitHub
 - Link Repository: [GitHub Repository](https://github.com/HikmalMaulanaFajar/flutter-fundamental-latih1)
-- Menganti Nama Pada Aplikasi hello_world : [Menganti Nama Pada Aplikasi hello_world](img/03.png)
-- Menganti Isi File Redmi.md dan Menampilkan gambar :[Menganti Isi File Redmi.md dan Menampilkan gambar](img/04.png)
+- Menganti Nama Pada Aplikasi hello_world : ![Menganti Nama Pada Aplikasi hello_world](img/03.png)
+- Menganti Isi File Redmi.md dan Menampilkan gambar :c![Menganti Isi File Redmi.md dan Menampilkan gambar](img/04.png)
 
 ## Praktikum 4: Widget Dasar
 ![Text Widget](img/03.png)
